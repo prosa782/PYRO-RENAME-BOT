@@ -50,7 +50,7 @@ async def start(client, message):
            InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", callback_data='dev')
            ],[
            InlineKeyboardButton('📢 join', url='https://t.me/+g8H_W9Y6FB1iYzg1'),
-           InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/PYRO_BOTZ_CHAT')
+           InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/Anonymousbro36')
            ],[
            InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
            InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿', callback_data='help')
@@ -91,7 +91,7 @@ async def cb_handler(client, query: CallbackQuery):
                 InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", callback_data='dev')                
                 ],[
                 InlineKeyboardButton('📢 join', url='https://t.me/+g8H_W9Y6FB1iYzg1'),
-                InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/PYRO_BOTZ_CHAT')
+                InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/Anonymousbro36')
                 ],[
                 InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
                 InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿', callback_data='help')
@@ -104,7 +104,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT")
+               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://telegra.ph/file/8fa316a9b68e83953cff7.mp4")
                ],[
                InlineKeyboardButton("❤️‍🔥 new movies  ❤️‍🔥", url='https://t.me/MalyalammoviesTeam')
                ],[
@@ -119,7 +119,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT")
+               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://telegra.ph/file/8fa316a9b68e83953cff7.mp4")
                ],[
                InlineKeyboardButton("🖥️ join", url="https://t.me/MalyalammoviesTeam")
                ],[
@@ -133,7 +133,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT")
+               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://telegra.ph/file/8fa316a9b68e83953cff7.mp4")
                ],[
                InlineKeyboardButton("🖥️ join", url="https://t.me/MalyalammoviesTeam")
                ],[
